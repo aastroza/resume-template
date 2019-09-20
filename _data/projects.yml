@@ -8,8 +8,10 @@
   duration: 2012 &mdash; Present
   # url: "#"
   description: Jazz Notes is an open source node/ember app that helps you keep track of your music compositions and new ideas.
-  image_path: "images/placeholder.jpg"
+  image_path: "images/placeholder.png"
   image_name: "placeholder"
+  #image_car: "mycarp1"
+  #image_cars: "#mycarp1"
 
 # Springfield Community Outreach Group
 - project: Springfield Community Outreach Group
@@ -19,3 +21,5 @@
   description: SCOG is a local monthly meetup in Springfield where we share opportunities to volunteer in the community and organize support for families and neighborhoods in need of assistance that the community can provide.
   image_path: "images/SCOG.jpg"
   image_name: "SCOG"
+  image_car: "mycar"
+  image_cars: "#mycar"
